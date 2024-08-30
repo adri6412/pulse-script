@@ -6,4 +6,4 @@ dnf install python3-tkinter openconnect vpnc vpnc-script python3-pip
 #dnf install pulsesecure -y
 dnf -y install openconnect NetworkManager-openconnect NetworkManager-openconnect-gnome
 dnf install python3-tkinter openconnect vpnc vpnc-script python3-pip
-wget https://github.com/satyarsh/OpenConnect-Linux-GUI/raw/main/oc-gui.py /opt/
+wget- O /opt/oc-gui.py https://github.com/satyarsh/OpenConnect-Linux-GUI/raw/main/oc-gui.py
